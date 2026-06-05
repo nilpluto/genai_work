@@ -1,0 +1,16 @@
+
+For a new Project Setup
+cd path/to/your/new/genai/project
+python3 -m venv venv
+source venv/bin/activate
+python --version
+
+
+Create Folder Structure to keep all things aligned.
+Add all secrets in .env Folder
+Add all depenedncies in requirements.txt
+
+------ Installing dependencies from requirements.txt
+pip install -r requirements.txt
+---------------------------------------------------------------
+
